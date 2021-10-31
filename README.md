@@ -1,5 +1,6 @@
 # MID2GM
-prgchg mapping to General MIDI
+prgchg mapping to General MIDI  
+ & some tool
 
 ## required
 * [MIDIData.dll](https://openmidiproject.osdn.jp/MIDIDataLibrary.html)
