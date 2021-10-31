@@ -3,9 +3,9 @@
 Rudra no Hihou / ルドラの秘宝  
 
 ## search
-./snes/rnh/*.mid  
-./spc/rnh/*.mid  
-./rnh/*.mid
+./snes/rnh/  
+./spc/rnh/  
+./rnh/
 
 ## filename rule
 xx_songname.mid  
