@@ -12,4 +12,4 @@ prgchg mapping to General MIDI
 
 ## reference sound module
 * Sound Canvas VA
-** SC-55(=MS GS Synth) / SC-88 / SC-88Pro / SC-8820
+* * SC-55(=MS GS Synth) / SC-88 / SC-88Pro / SC-8820
