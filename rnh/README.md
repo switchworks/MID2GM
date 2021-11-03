@@ -12,13 +12,13 @@ drum part now incorrect.
 * [VGMTrans](https://github.com/vgmtrans/vgmtrans/)
 
 ## search
-./snes/rnh/  
-./spc/rnh/  
-./rnh/
+* ./snes/rnh/
+* ./spc/rnh/
+* ./rnh/
 
 ## filename rule
-xx_songname.mid  
-xxa_songname.mid
+* xx_songname.mid
+* xxa_songname.mid
 
 |id|title|status|
 |---|---|---|
