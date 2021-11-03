@@ -8,6 +8,9 @@ drum part now incorrect.
 * some hat couldn't separate open/close
 * percussions are terrible...
 
+## required
+* [VGMTrans](https://github.com/vgmtrans/vgmtrans/)
+
 ## search
 ./snes/rnh/  
 ./spc/rnh/  
