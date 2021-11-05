@@ -3,6 +3,7 @@ prgchg mapping to General MIDI
  & some tool
 
 ## required
+* [Python 3.x](https://www.python.org/downloads/windows/)
 * [MIDIData.dll](https://openmidiproject.osdn.jp/MIDIDataLibrary.html)
 * [MIDIData.py](https://github.com/switchworks/MIDIData.py)
 
