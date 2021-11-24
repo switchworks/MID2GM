@@ -9,7 +9,7 @@ drum part now incorrect.
 * percussions are terrible...
 
 ## required
-* [VGMTrans(rudra branch)](https://github.com/vgmtrans/vgmtrans/actions/runs/1402828692)
+* [VGMTrans](https://github.com/vgmtrans/vgmtrans/)
 
 ## search
 * ./snes/rnh/
